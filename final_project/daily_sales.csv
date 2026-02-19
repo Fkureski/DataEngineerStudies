@@ -1,0 +1,13 @@
+Date	Product	Quantity	Sales
+1/1/2023	Product A	5	50
+1/1/2023	Product B	2	40
+2/1/2023	Product A	7	70
+2/1/2023	Product C	3	90
+2/1/2023	Product A		70
+2/1/2023	Product C	3	
+3/1/2023	Product B	4	80
+3/1/2023	Product C	2	60
+4/1/2023	Product A	1	10
+4/1/2023	Product B	1	20
+4/1/2023	Product A	2	
+4/1/2023	Product B	3	20
